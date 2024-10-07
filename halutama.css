@@ -1,9 +1,9 @@
 .halu-body
 {
     text-align: center;
-    margin: auto;
-    height: auto;
-    width: auto;
+    background-color: darksalmon;
+    margin: 50px;
+    padding: 10px;
 }
 
 /* Section Nama dan Tombol dkk. */
@@ -11,12 +11,9 @@
 
 .halu-h1
 {
-    width: auto;
     background-color: blue;
     text-align: left;
     padding-left: 20px;
-    margin-top: 2px;
-    border: 5px solid black;
 }
 .section1
 {
