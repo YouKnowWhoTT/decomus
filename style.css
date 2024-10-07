@@ -66,14 +66,31 @@
 {
     text-align: center;
     margin: 0;
-    padding: 20px;
+}
+
+/* Section Nama dan Tombol dkk. */
+
+.halu-atas
+{
+    background-color: green;
 }
 
 .halu-h1
 {
+    
     background-color: blue;
     text-align: left;
     padding-left: 20px;
+    margin-top: 2px;
+    
+}
+
+.halu-h6
+{
+    background-color: red;
+    text-align: right;
+    padding-right: 20px;
+    margin-top: 2px;
 }
 
 .section1
