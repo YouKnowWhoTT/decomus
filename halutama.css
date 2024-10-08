@@ -1,9 +1,9 @@
 .halu-body
 {
     text-align: center;
-    background-color: darksalmon;
-    margin: 50px;
-    padding: 10px;
+    background-color: #E2F1E7;
+    margin: auto;
+    padding: auto;
 }
 
 /* Section Nama dan Tombol dkk. */
@@ -11,27 +11,38 @@
 
 .halu-h1
 {
-    background-color: blue;
+    background-color: #629584;
     text-align: left;
     padding-left: 20px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    margin-top: 2vh;
 }
 
 .section1
 {
-    background-color: aquamarine;
+    padding-top: 2px;
+    padding: 5px;
+    margin: 5px;
 }
 
 .section2
 {
-    background-color: blueviolet;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #387478;
 }
 
 .section3
 {
-    background-color: cadetblue;
+    padding: 10px;
+    margin: 10px;
 }
 
 .section4
 {
-    background-color: cyan;
+    margin: 0;
+    background-color: #387478;
+    height:50px;
+    max-height: 50% ;
 }
